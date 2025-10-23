@@ -16,4 +16,4 @@ with this css styling:
 ### Viewing the website:
 You can view the live preview of this website by pressing this link:
 
-[Github live preview](aidas-dev.github.io/Landing-Page-V1/)
+[Github live preview](https://aidas-dev.github.io/Landing-Page-V1/)
